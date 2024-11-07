@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Auto Click Next Page
+// @name         XXT Auto Click Next Page
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  自动下一页，没有下一页则上一页
